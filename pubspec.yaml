@@ -1,8 +1,7 @@
 name: flutter_toast
 description: A new Flutter plugin.
 version: 0.0.1
-author: Pradeep Verkiya
-homepage:
+homepage: https://github.com/Pradeepverkiya/FlutterToast.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
