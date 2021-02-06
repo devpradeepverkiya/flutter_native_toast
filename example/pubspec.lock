@@ -130,18 +130,18 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_test:
-    dependency: "direct dev"
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  flutter_toast:
+  flutter_native_toast:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
     version: "0.0.1"
+  flutter_test:
+    dependency: "direct dev"
+    description: flutter
+    source: sdk
+    version: "0.0.0"
   fuchsia_remote_debug_protocol:
     dependency: transitive
     description: flutter

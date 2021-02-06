@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.verkiya.flutter_toast_example">
    <application
-        android:label="flutter_toast_example"
+        android:label="flutter_native_toast"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_toast/flutter_toast.dart';
+import 'package:flutter_native_toast/flutter_toast.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('flutter_toast');
